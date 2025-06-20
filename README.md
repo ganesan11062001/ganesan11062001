@@ -1,5 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Ganesan Murugan</h1>
-<h3 align="center">🔬 AI Bioinformatician | 💻 Full-Stack Data Engineer | 📊 Data Scientist | ☁️ Cloud-Driven Innovator</h3>
+<h1 align="center"> AI Bioinformatician | 💻 Full-Stack Data Engineer | 📊 Data Scientist | ☁️ Cloud-Driven Innovator</h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ganesan11062001&show_icons=true&theme=github_dark" height="150"/>
