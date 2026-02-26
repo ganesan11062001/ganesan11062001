@@ -72,7 +72,7 @@ Random Forest + Gradient Boosting + Neural Network pipeline predicting sgRNA eff
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesan11062001&layout=compact&theme=github_dark&hide_border=true" height="150"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ganesan11062001&theme=dark&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=ganesan11062001&theme=dark&hide_border=true" height="150"/>
 </p>
 
 ---
